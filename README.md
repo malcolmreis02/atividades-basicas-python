@@ -1,0 +1,3 @@
+<h1>Python</h1>
+<p>Os documentos cotidos nesse repositório são códigos executados durante as aulas que tive no curso básico de Python na plataforma de ensino Digital Innovation One.</br></p>
+<p>Cada código contém nomes de variáveis e comentários bem sugestivos, de fácil entendimento. Então se você está começando agora com Python - ou conhece alguém que está -, esse repositório servirá para fazer consultas de sintaxe ou qualquer dúvida de nível básico que você tiver.</p>
